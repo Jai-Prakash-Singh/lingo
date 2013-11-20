@@ -22,3 +22,4 @@ Clue: [t][i][g][e][r]
 runnig step
 
 python lingo.py
+
